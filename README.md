@@ -1,2 +1,2 @@
-# thelotobto
+# thelotobot
 Bitcoin lottery
